@@ -1,0 +1,8 @@
+elasticsearch>=8.0.0
+python-dotenv
+sentence-transformers
+tika
+pydantic
+pydantic-settings
+py7zr
+pypdf2 
